@@ -1,0 +1,75 @@
+#oneoptibox {
+	border: 3px solid #B4C2C4;
+	border-radius: 10px;
+	margin-bottom: 16px;
+	width: 92%;
+	padding: 5px 5px 5px 15px;
+	background: #E7FFFF;
+}
+
+#twooptibox {
+	float:left;
+	border: 1px solid #c0c0c0;
+	border-radius: 10px;
+	margin-right: 9px;
+	margin-bottom: 10px;
+	width: 47%;
+	padding: 5px;
+	clear: right;
+	min-height: 140px;
+	background: #FFFFFF;
+}
+
+#fouroptibox {
+	float:left;
+	border: 1px solid #c0c0c0;
+	border-radius: 10px;
+	margin-right: 10px;
+	margin-bottom: 16px;
+	width: 22%;
+	padding: 5px;
+	clear: right;
+	min-height: 220px;
+	text-align: center;
+	background: #FFFFFF;
+}
+
+#otheroptibox, #onoptibox, #offoptibox {
+	float: left;
+	border: 3px solid #B4C2C4;
+	border-radius: 10px;
+	margin-right: 9px;
+	margin-bottom: 10px;
+	width: 120px ;
+	padding: 0px 10px 0px 10px;
+	clear: right;
+	min-height: 90px;
+}
+
+#onoptibox {
+	background: #C0FFC0;
+	text-align: center;
+}
+
+#offoptibox {
+	background: #FFC0C0;
+	text-align: center;
+}	
+
+.onoffoptibox_title {
+	margin-top: 18px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.biglabel {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.boxtitle {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+input[type="number"] { width:75px; }
